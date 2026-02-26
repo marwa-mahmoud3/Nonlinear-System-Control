@@ -40,7 +40,7 @@ The project generates comprehensive plots to validate tracking performance:
 
 ## 📂 Project Structure
 * `main.m`: The core MATLAB script featuring the solver and logic.
-* `Mathematical_Derivations_and_System_Dynamics_for_Nonlinear_Control.pdf/`: Original mathematical derivations documentation.
+* `Mathematical_Derivations_and_System_Dynamics_for_Nonlinear_Control.pdf`: Original mathematical derivations documentation.
 
 ---
 
